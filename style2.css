@@ -1,0 +1,19 @@
+body {
+    background-image: url("simple-background.jpg");
+    background-color: #cccccc;
+}
+
+
+.navbar-fixed {
+    margin: auto;
+    color: white;
+}
+
+.right hide-on-med-and-down {
+    margin: auto;
+}
+
+.dropdown-content {
+    margin-right: auto;
+    color: snow;
+}
